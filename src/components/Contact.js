@@ -1,13 +1,11 @@
 import React from 'react'
 
+// 聯絡頁面  目前僅存放Lorem預設文字
 function Contact(props) {
   // 兩秒後跳轉至about
   // setTimeout(()=>{
   //   props.history.push('/about')
   // } , 2000)
-
-  
-  
   return (
     <div className='container'>
       <h4 className="center">Contact</h4>
